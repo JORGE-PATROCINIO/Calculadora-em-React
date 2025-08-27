@@ -36,7 +36,7 @@ const Calculadora = () => {
         setValorAtual("0");
         setOperacaoPendente(null);
         setValorPendente(null);
-        setOperacaoCompleta("0");
+        setOperacaoCompleta("");
 
     };
 
